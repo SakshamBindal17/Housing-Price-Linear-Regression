@@ -75,7 +75,8 @@ print(df.head())
 print(df.info())
 ```
 *Verifies all columns are now numeric and ready for modeling.*
-[Updated Housing Dataset](Housing-updated.csv)
+
+[Updated Housing Dataset](Housing-Updated.csv)
 
 ---
 
